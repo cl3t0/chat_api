@@ -7,7 +7,7 @@ defmodule ChatApiWeb.Endpoint do
   @session_options [
     store: :cookie,
     key: "_chat_api_key",
-    signing_salt: "xfziL+in"
+    signing_salt: "r8tuzhuF"
   ]
 
   socket "/live", Phoenix.LiveView.Socket, websocket: [connect_info: [session: @session_options]]

@@ -17,7 +17,7 @@ config :chat_api, ChatApi.Repo,
 # you can enable the server option below.
 config :chat_api, ChatApiWeb.Endpoint,
   http: [ip: {127, 0, 0, 1}, port: 4002],
-  secret_key_base: "MgagyRjh9cMQM9F09wKnyQyDKF1Fw46Zk6laVA+PCdSCvBC5GmCVMvtMuMmXcfIh",
+  secret_key_base: "yr5TlNQz+rOukcqNdiaz+D7dk8ucz3yswfL7queuMia/7b0jFepYN8a6POW4vFtI",
   server: false
 
 # In test we don't send emails.

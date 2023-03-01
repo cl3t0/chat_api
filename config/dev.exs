@@ -23,7 +23,7 @@ config :chat_api, ChatApiWeb.Endpoint,
   check_origin: false,
   code_reloader: true,
   debug_errors: true,
-  secret_key_base: "WTpgxkL0/F86cw5FQvgWAHpHVAAv/elhf5GelpFuj0vIzc/NR5fiiKi1GDeDP+kC",
+  secret_key_base: "gTlFXmu17r9j8i6X9/G6vmoFe+RzAByymh+Q0Ji9iD5Ow5FpJByA/6fw96w3Bd2R",
   watchers: []
 
 # ## SSL Support
